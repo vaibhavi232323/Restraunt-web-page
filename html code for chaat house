@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Restaurant Website</title>
+    <style>
+      body{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("https://wallpapercave.com/wp/wp7524939.jpg");
+      }
+    </style>
+  </head>
+  <body>
+    
+  <section class="section-intro">
+    <header>
+      <center>
+      <h1>Chaat House</h1></center>
+    </header>
+   
+  </section>
+
+  <section class="about-section">
+    <article>
+      <h3>
+          Best Chaat House in the city!
+      </h3>
+      
+      <p>
+        The Chaat House consists of all types of snacks found all over India mixed with great flavours and essence of love.<br>
+        <section align='left' 
+        <figure> 
+          <image src="https://th.bing.com/th/id/OIP.v-q1fCqxr3EWUMm8MqnuiwHaE8?w=270&h=181&c=7&r=0&o=5&pid=1.7" height ="200px" width ="200px" alt="Chola Puri"/>
+          <figcaption>Chola Puri</figcaption> </figure></section>
+          <figure>
+          <image src="https://muthuhealthyrecipes.com/wp-content/uploads/2021/06/Bhel-Puri-Recipe.jpg" height = "200px" width = "200px" alt="Bhel Puri"/>
+          <figcaption>Bhel-Puri</figcaption> </html>
+        </figure>
+          </article>
+  </section>
+
+  <nav>
+    <ul class="nav-flex-row">
+      <li class="nav-item">
+        <a href="#about">About</a>
+      </li>
+      <li class="nav-item">
+        <a href="#reservation">Reservation</a>
+      </li>
+      <li class="nav-item">
+        <a href="#menu">Menu</a>
+      </li>
+      <li class="nav-item">
+        <a href="#shop">Shop</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="link-to-book-wrapper">
+    <a class="link-to-book" href="#reservations">Book a table</a>
+  </div>
+  
+  <div class="container">
+    <div class="row-flex">
+      <div class="flex-column-form">
+        <h3>
+          Make a booking
+        </h3>
+      <form class="media-centered">
+          <div class="form-group">
+            <p>
+              Please leave your number to make a reservation
+            </p>
+            <input type="name" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" placeholder="Enter your name"><br>
+          </div>
+          
+<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email id">
+<br>
+          <div class="form-group">
+            <input type="number" class="form-control" id="exampleInputphoneNumber1" placeholder="Enter your phone number">
+          </div>
+          Have you visited our restaurant before?
+<input type="radio" name="exe" value=1>Yes
+<input type="radio" name="exe" value=2>No<br>
+          <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      </div>
+      <section>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YA9zbl4J_lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </section>
+      <section> 
+        
+          <video controls src="basketchat.mp4"> <track src="videoplayback.vtt" kind="subtitles" srclang="en" label="English"></video>
+      </section>
+      <section> 
+        <audio controls> <source src="clapping-music-for-typographic-video-version-2-112975.mp3" type="audio/mpeg"> </audio>
+      </section>
+      <summary>
+        <mark>Disclaimer</mark></summary>
+  This website is for development purpose only. It will not take any of your data.
+</details>
+</section>
+      <footer>
+      <div class="opening-time">
+        <h3>
+          Opening times
+        </h3>
+        <p></p>
+          <span>Monday—Thursday: 08:00 — 22:00</span> <br>
+         <span>Friday—Saturday: 09:00 — 23:00 </span><br>
+         <span>Sunday: 10:00 — 17:00</span></p>
+        </p>
+      </div>
+      <div class="contact-adress">
+        <h3>
+          Contact number
+        </h3>
+        <p>
+          <span>000 9283 8456</span><br>
+          <h3>Address</h3>
+          <span>151 Bhagat Singh Road,</span>
+          <span>Lucknow</span>
+        </p>
+      </div>
+    </div>
+    </div>
+  </footer>
+  </body>
+  
+</html> 
